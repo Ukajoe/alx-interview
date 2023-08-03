@@ -8,7 +8,7 @@ def nqueens(n, y, board):
     Method: nqueens - place n queens
             on an n by n board so that
             no queens are attacking any
-            others.
+            other.
     Parameters: n is an int that sets
                 board size and # of queens
     Return: All possible solutions to
